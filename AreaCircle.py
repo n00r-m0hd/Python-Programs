@@ -9,3 +9,5 @@ area=pi*r*r
 
 print(f"Area of circle is {area}")
 
+print("Code completed")
+
