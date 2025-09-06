@@ -4,7 +4,7 @@
 # except:
 #     print("Hello, i am a except block")
 
-try:
-    print(x)
-except:
-    print("Exception is occured")
+# try:
+#     print(x)
+# except:
+#     print("Exception is occured")
