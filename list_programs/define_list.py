@@ -4,6 +4,9 @@ What is a list?
 A list is a collection of ordered, changeable(mutable), and indexed items.
 It can hold items of any data type(integers, strings decimals, other list, and mixed types)
 
+start is the starting index (inclusive).
+stop is the ending index (exclusive).
+
 '''
 # Syntax
 
